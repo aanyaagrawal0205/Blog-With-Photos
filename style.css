@@ -1,0 +1,38 @@
+body {
+    background-color: aquamarine;
+    text-align: center;
+}
+h1{
+    font-variant: small-caps;
+}
+h2{
+    font-variant: small-caps;
+}
+#tree {
+    width: 600px;
+    height: 500px;
+}
+#snow{
+    width: 600px;
+    height: 500px;
+}
+#rain{
+    width: 600px;
+    height: 500px;
+}
+#waterfall{
+    width: 600px;
+    height: 500px;
+}
+#fall{
+    width: 600px;
+    height: 500px;
+}
+#leaves{
+    width: 600px;
+    height: 500px;
+}
+#flowers{
+    width: 600px;
+    height: 500px;
+}
